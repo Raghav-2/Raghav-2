@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm Raghavendra </h1>
 
 <h3 align="center">A passionate python developer from India</h3>
+<img align="right" alt='coding' with="400" src= "https://media4.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47848nw8xe1ujkn7p2x7uzn2g2qctu2v34innx8s0d&rid=giphy.gif&ct=g">
 
 - 📫 How to reach me **raghavrjkr@gmail.com**
 
