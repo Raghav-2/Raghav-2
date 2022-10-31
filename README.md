@@ -3,7 +3,7 @@
 <h3 align="center">A passionate python developer from India</h3>
 <img align="right" alt='coding' width="400" src= "https://cdn.dribbble.com/users/4479253/screenshots/12231271/git_developer_4x.jpg">
 
-- 📫 How to reach me **raghavrjkr@gmail.com**
+- 📫Reach me through **raghavrjkr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
