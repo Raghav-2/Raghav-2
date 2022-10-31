@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Raghavendra </h1>
+<h1 align="center"> Hi 👋, I'm Raghavendra </h1>
 
 <h3 align="center">A passionate python developer from India</h3>
 <img align="right" alt='coding' width="400" src= "https://cdn.dribbble.com/users/4479253/screenshots/12231271/git_developer_4x.jpg">
