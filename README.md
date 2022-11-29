@@ -11,7 +11,7 @@
   <a href="https://instagram.com/encrypted_pixels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="encrypted_pixels" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Code war challenge:</h3>
+<h3 align="left">Code challenges:</h3>
 <p align="left">
 <a href="https://www.codewars.com/users/Code-else/badges" target="blank"><img align="center" src="https://github.com/Raghav-2/Raghav-2/blob/master/codewar2.png" alt="code_war" height="100" width="200"/></a>
 </p>
