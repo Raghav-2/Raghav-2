@@ -13,7 +13,7 @@
 
 <h3 align="left">Code war challenge</h3>
 <p align="left">
-<a href="https://www.codewars.com/users/Code-else/badges" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dcodewars&psig=AOvVaw0oZQfK7aJO_MN-t6XPGqyl&ust=1669831269457000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOjNzbv80_sCFQAAAAAdAAAAABAN" alt="code_war" height="40" width="40"/></a>
+<a href="https://www.codewars.com/users/Code-else/badges" target="blank"><img align="center" src="https://github.com/Raghav-2/Raghav-2/blob/master/codewar.png" alt="code_war" height="40" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
