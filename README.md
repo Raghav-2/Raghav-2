@@ -11,5 +11,10 @@
   <a href="https://instagram.com/encrypted_pixels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="encrypted_pixels" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Code war challenge</h3>
+<p align="left">
+<a href="https://www.codewars.com/users/Code-else/badges" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dcodewars&psig=AOvVaw0oZQfK7aJO_MN-t6XPGqyl&ust=1669831269457000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOjNzbv80_sCFQAAAAAdAAAAABAN" alt="code_war" height="40" width="40"/></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
